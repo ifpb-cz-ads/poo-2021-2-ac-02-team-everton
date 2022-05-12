@@ -1,4 +1,4 @@
-class ImprimeIntervalo {
+class BMExercio02 {
         public static void main(String[] args) {
             int i = 1;
             long j = 2;
