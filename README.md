@@ -1,3 +1,4 @@
+BMExercio01
 1. Analise as seguintes declarações de variáveis e assinale (V) para Verdadeiro
 e (F) para Falso
 
